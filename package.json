@@ -1,0 +1,31 @@
+{
+  "name": "realTimeChat",
+  "version": "1.0.0",
+  "description": "Real time chat with Express and Angular",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DartMarcius/realTimeChat.git"
+  },
+  "keywords": [
+    "Angular",
+    "Express",
+    "Mongodb",
+    "Chat"
+  ],
+  "author": "Markiyan Pyts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DartMarcius/realTimeChat/issues"
+  },
+  "homepage": "https://github.com/DartMarcius/realTimeChat",
+  "dependencies": {
+    "express": "^4.13.0",
+    "express-handlebars": "^2.0.1",
+    "mongodb": "^2.0.35",
+    "socket.io": "^1.3.5"
+  }
+}

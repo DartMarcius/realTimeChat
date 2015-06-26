@@ -1,0 +1,1709 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"shift",
+				"shiftTop"
+			],
+			[
+				"hight",
+				"highlightedElements"
+			],
+			[
+				"sh",
+				"shiftLeft"
+			],
+			[
+				"parse",
+				"parseFloat"
+			],
+			[
+				"tooltipN",
+				"tooltipNumberPosAdjustments"
+			],
+			[
+				"curre",
+				"currentStep"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"tomE",
+				"topElement"
+			],
+			[
+				"bottom",
+				"bottomElOrBoxHeight"
+			],
+			[
+				"top",
+				"topElement"
+			],
+			[
+				"wra",
+				"wrapperBoxes"
+			],
+			[
+				"botto",
+				"bottomElement"
+			],
+			[
+				"crea",
+				"createBoxes"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"outer",
+				"outerWidth"
+			],
+			[
+				"str",
+				"stringify"
+			],
+			[
+				"high",
+				"highlightExtraHighlights"
+			],
+			[
+				"intro",
+				"introJs"
+			],
+			[
+				"mo",
+				"mobileSteps"
+			],
+			[
+				"scroll",
+				"scrollTo"
+			],
+			[
+				"need",
+				"need-tour-refresh"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"inv",
+				"invisible-wrapper"
+			],
+			[
+				"ou",
+				"outerWidth"
+			],
+			[
+				"safe",
+				"safeLeft"
+			],
+			[
+				"off",
+				"offset"
+			],
+			[
+				"append",
+				"appendTo"
+			],
+			[
+				"c",
+				"cache"
+			],
+			[
+				"homepageF",
+				"homepageFooterMainContent"
+			],
+			[
+				"homepagef",
+				"homepageFooterMainContent"
+			],
+			[
+				"appe",
+				"append"
+			],
+			[
+				"initi",
+				"initialize"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"seri",
+				"serializedForm"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"shippinga",
+				"shippingAddressFormPhone"
+			],
+			[
+				"unde",
+				"undefined"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"ke",
+				"key"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"pr",
+				"price"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"line",
+				"line-through"
+			],
+			[
+				"in",
+				"initial"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"shopp",
+				"shoppingCart"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"bl",
+				"black"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"bo",
+				"bold"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"sa",
+				"save-checkbox"
+			],
+			[
+				"inpu",
+				"input-field"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"white",
+				"white-space"
+			],
+			[
+				"wor",
+				"word-spacing"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"ads",
+				"ads-banner"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"left",
+				"left"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"prod",
+				"product-variant-imageselect"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"prevent",
+				"preventDefault"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"ico",
+				"icon"
+			],
+			[
+				"is",
+				"iscomment"
+			],
+			[
+				"produ",
+				"productname"
+			],
+			[
+				"modal",
+				"modal-body"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"login",
+				"loginListeners"
+			],
+			[
+				"backboneModels",
+				"backboneModelsOut"
+			],
+			[
+				"preloader",
+				"preloader-text"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"perce",
+				"percentPreloader"
+			],
+			[
+				"ima",
+				"imagesLoaded"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"clos",
+				"closest"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"accordio",
+				"accordion-arrow"
+			],
+			[
+				"slide",
+				"slidesArrows"
+			],
+			[
+				"ta",
+				"tasksView"
+			],
+			[
+				"re",
+				"render"
+			],
+			[
+				"ap",
+				"App"
+			],
+			[
+				"tas",
+				"tasks"
+			],
+			[
+				"ex",
+				"extend"
+			],
+			[
+				"Ta",
+				"tasks"
+			],
+			[
+				"comp",
+				"compleated"
+			],
+			[
+				"S",
+				"Schema"
+			],
+			[
+				"app",
+				"appointmentView"
+			],
+			[
+				"A",
+				"AppointmentView"
+			],
+			[
+				"show",
+				"showAppointment"
+			],
+			[
+				"sho",
+				"showAppointment"
+			],
+			[
+				"new",
+				"newTaskTitle"
+			],
+			[
+				"edit",
+				"editTask"
+			],
+			[
+				"collecti",
+				"Collection"
+			],
+			[
+				"T",
+				"Tasks"
+			],
+			[
+				"pe",
+				"personView"
+			],
+			[
+				"per",
+				"person"
+			],
+			[
+				"Pe",
+				"PersonView"
+			],
+			[
+				"People",
+				"PeopleCollection"
+			],
+			[
+				"Person",
+				"PersonView"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"admi",
+				"admin_name"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "server/expressConfig.js",
+			"settings":
+			{
+				"buffer_size": 830,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 203,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "server/routes.js",
+			"settings":
+			{
+				"buffer_size": 209,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/views/index.handlebars",
+			"settings":
+			{
+				"buffer_size": 126,
+				"line_ending": "Windows",
+				"name": "<!DOCTYPE html>"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 719,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"Markdown",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: I",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"_example.scss",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/GoogleDrive/myProjects/realTimeChat",
+		"/D/GoogleDrive/myProjects/realTimeChat/public/views",
+		"/D/GoogleDrive/myProjects/realTimeChat/server"
+	],
+	"file_history":
+	[
+		"/D/GoogleDrive/OSF/MyProjects/Demandware/kiehls/repo/newOptions.md",
+		"/D/GoogleDrive/Lessons/Practice/Node/nodejs-soup-to-bits-pub-sub-server/app.js",
+		"/D/GoogleDrive/Lessons/Practice/Node/nodejs-soup-to-bits-pub-sub-server/controllers/badges.js",
+		"/D/GoogleDrive/myProjects/realTimeChat/server/expressConfig.js",
+		"/D/GoogleDrive/Lessons/Practice/StayingSharpWithAngular/StayingSharpWithAngularSTB/server/routes.js",
+		"/D/GoogleDrive/Lessons/Practice/StayingSharpWithAngular/StayingSharpWithAngularSTB/app.js",
+		"/D/GoogleDrive/Lessons/OldLessons/express/routes.js",
+		"/D/GoogleDrive/Lessons/OldLessons/express/server.js",
+		"/D/GoogleDrive/Lessons/Practice/Node/nodejs-soup-to-bits-pub-sub-server/Procfile",
+		"/D/GoogleDrive/OSF/MyProjects/Demandware/kiehls/repo/cartridges/int_tutorial/cartridge/static/default/js/core/tutorial-base.js",
+		"/D/GoogleDrive/OSF/MyProjects/Demandware/BootstrapDocs/.git/config",
+		"/D/GoogleDrive/Lessons/Practice/Node/badges-socket-client/app.js",
+		"/D/GoogleDrive/OSF/MyProjects/Demandware/kiehls/repo/cartridges/int_tutorial/cartridge/static/default/js/kiehls/tutorial-userjourney.js",
+		"/D/GoogleDrive/Lessons/Practice/Node/badges-socket-client/public/client.js",
+		"/D/GoogleDrive/OSF/MyProjects/Demandware/DemandwareDocs/index.html",
+		"/D/GoogleDrive/OSF/MyProjects/Demandware/BootstrapDocs/index.html",
+		"/C/Users/Marcius/.ssh/id_rsa.pub",
+		"/D/GoogleDrive/OSF/MyProjects/Demandware/DemandwareDocs/js/jquery.js",
+		"/E/downloads/jquery-1.11.3.min (2).js",
+		"/C/Users/Marcius/Desktop/oldContent/cont.js",
+		"/D/GoogleDrive/OSF/MyProjects/Demandware/kiehls/repo/cartridges/app_kiehls/cartridge/static/default/sass/style.scss",
+		"/D/GoogleDrive/OSF/MyProjects/Demandware/kiehls/repo/cartridges/int_tutorial/cartridge/static/default/sass/core/tutorial-general.scss",
+		"/D/GoogleDrive/OSF/MyProjects/Demandware/kiehls/repo/cartridges/app_kiehls/cartridge/templates/default/components/header/htmlhead_UI.isml",
+		"/D/GoogleDrive/OSF/MyProjects/Demandware/kiehls/repo/cartridges/int_tutorial/cartridge/templates/default/tutorialbody.isml",
+		"/D/GoogleDrive/OSF/MyProjects/Demandware/kiehls/repo/cartridges/int_tutorial/cartridge/static/default/js/kiehls/tutorial-steps.js",
+		"/C/Users/Marcius/Desktop/intro/intro.js-1.0.0/intro.js",
+		"/D/GoogleDrive/OSF/MyProjects/Demandware/kiehls/repo/cartridges/int_tutorial/cartridge/static/default/js/tutorial-base.js",
+		"/D/GoogleDrive/OSF/MyProjects/Demandware/kiehls/repo/cartridges/int_tutorial/cartridge/static/default/js/core/intro.min.js",
+		"/D/GoogleDrive/OSF/MyProjects/Demandware/kiehls/repo/cartridges/int_tutorial/cartridge/static/default/sass/tutorial-general.scss",
+		"/D/GoogleDrive/OSF/MyProjects/Demandware/kiehls/repo/cartridges/app_kiehls/cartridge/static/default/sass/settings/_js_classes.scss",
+		"/D/GoogleDrive/OSF/MyProjects/Demandware/kiehls/repo/cartridges/app_kiehls/cartridge/static/default/sass/domoverrides.scss",
+		"/D/GoogleDrive/OSF/MyProjects/Demandware/kiehls/repo/cartridges/app_kiehls/cartridge/static/default/js/components/global.userjourney.js",
+		"/D/GoogleDrive/OSF/MyProjects/Demandware/kiehls/repo/cartridges/int_tutorial/cartridge/templates/default/tutorialhead.isml",
+		"/D/GoogleDrive/OSF/MyProjects/Demandware/kiehls/try/index.html",
+		"/D/GoogleDrive/OSF/MyProjects/Demandware/tips.md",
+		"/D/GoogleDrive/OSF/MyProjects/Demandware/kiehls/repo/cartridges/app_kiehls/cartridge/templates/default/footer/containers/footer_UI.isml",
+		"/D/GoogleDrive/OSF/MyProjects/Demandware/kiehls/repo/cartridges/app_kiehls/cartridge/static/default/js/components/components.config.specific.js",
+		"/D/GoogleDrive/OSF/MyProjects/Demandware/kiehls/repo/cartridges/app_kiehls/cartridge/static/default/js/components/global.tutorialbase.js",
+		"/D/GoogleDrive/OSF/MyProjects/Demandware/kiehls/repo/cartridges/app_kiehls/cartridge/static/default/js/tutorial_data/tooltip_steps.js",
+		"/C/Users/Marcius/Desktop/setup",
+		"/D/GoogleDrive/OSF/MyProjects/Demandware/kiehls/repo/cartridges/app_kiehls/cartridge/static/default/js/intro.js",
+		"/D/GoogleDrive/OSF/MyProjects/Demandware/kiehls/lora/app_lora_richUI/cartridge/static/default/js/app.components.js",
+		"/D/GoogleDrive/OSF/MyProjects/Demandware/kiehls/repo/cartridges/app_kiehls/cartridge/static/default/js/components/global.intro.js",
+		"/D/GoogleDrive/OSF/MyProjects/Demandware/kiehls/repo/cartridges/app_kiehls/cartridge/static/default/js/components/global.crmpopup.js",
+		"/C/Users/Marcius/AppData/Roaming/Skype/My Skype Received Files/Flagships Tutorial ArchitectureExport.xml",
+		"/D/GoogleDrive/OSF/MyProjects/Demandware/kiehls/lora/app_lora/cartridge/templates/default/content/home/pt_storefront.isml",
+		"/D/GoogleDrive/OSF/MyProjects/Demandware/kiehls/repo/cartridges/app_kiehls/cartridge/templates/default/tracking/allpagestrackingcustom.isml",
+		"/D/GoogleDrive/OSF/MyProjects/Demandware/kiehls/lora/app_lora/cartridge/templates/default/content/home/pt_storefront_VARS.isml",
+		"/D/GoogleDrive/OSF/MyProjects/Demandware/kiehls/lora/app_cc/cartridge/templates/default/callcenter/components/footer.isml",
+		"/C/Users/Marcius/AppData/Roaming/Skype/My Skype Received Files/skinc-object-definitions.xml",
+		"/D/GoogleDrive/OSF/MyProjects/Demandware/kiehls/repo/cartridges/app_kiehls/cartridge/static/default/js/json_data/tooltip_steps.js",
+		"/D/GoogleDrive/OSF/MyProjects/Demandware/kiehls/lora/ac_pfsweb/cartridge/templates/default/common/http_200.isml",
+		"/C/Users/Marcius/Desktop/New folder/css/main.css",
+		"/C/Users/Marcius/Desktop/New folder/index.html",
+		"/D/GoogleDrive/OSF/Interviews/train/propagation/index.html",
+		"/D/GoogleDrive/OSF/Interviews/train/delegation/index.html",
+		"/D/GoogleDrive/OSF/Interviews/train/context/index.html",
+		"/D/GoogleDrive/OSF/MyProjects/Demandware/kiehls/try/css/style.css",
+		"/D/GoogleDrive/OSF/MyProjects/Demandware/kiehls/repo/cartridges/app_kiehls/cartridge/static/default/js/components/global.navigation.js",
+		"/D/GoogleDrive/OSF/Interviews/index.html",
+		"/D/GoogleDrive/OSF/Interviews/train/index.html",
+		"/D/GoogleDrive/OSF/MyProjects/Demandware/kiehls/try/css/introjs.min.css",
+		"/C/Users/Marcius/Desktop/j.js",
+		"/D/Demandware/Loreal/myTrainRepo/cartridges/app_mark/cartridge/templates/default/content/home/homepage.isml",
+		"/D/Demandware/Loreal/myTrainRepo/cartridges/app_mark/cartridge/templates/default/training/login.isml",
+		"/D/Demandware/Loreal/myTrainRepo/cartridges/app_mark/cartridge/static/default/js/components/components.config.specific.js",
+		"/D/Demandware/Loreal/myTrainRepo/cartridges/app_mark/cartridge/static/default/js/components/components.config.global.js",
+		"/D/Demandware/Loreal/myTrainRepo/cartridges/app_mark/cartridge/static/default/js/app.checkout.js",
+		"/D/Demandware/Loreal/myTrainRepo/cartridges/app_mark/cartridge/static/default/sass/partials/_login_page.scss",
+		"/D/Demandware/Loreal/myTrainRepo/cartridges/app_mark/cartridge/templates/default/content/content/pt_mark.isml",
+		"/D/Demandware/Loreal/myTrainRepo/cartridges/app_mark/cartridge/static/default/sass/partials/_placeholders.scss",
+		"/D/Demandware/Loreal/myTrainRepo/cartridges/app_mark/cartridge/static/default/sass/partials/_settings.scss",
+		"/D/Demandware/Loreal/myTrainRepo/cartridges/app_mark/cartridge/static/default/js/app.components.js",
+		"/D/Demandware/Loreal/myTrainRepo/cartridges/app_mark/cartridge/static/default/js/app.js",
+		"/D/Demandware/Loreal/myTrainRepo/cartridges/app_lora_richUI/cartridge/static/default/js/app.bonusProductsView.js",
+		"/D/Demandware/Loreal/myTrainRepo/cartridges/app_mark/cartridge/static/default/js/components/global.mark.component.js",
+		"/D/Demandware/Loreal/myTrainRepo/cartridges/app_mark/cartridge/templates/default/content/home/pt_storefront.isml",
+		"/D/Demandware/Loreal/myTrainRepo/cartridges/app_mark/cartridge/static/default/sass/partials/_mixins.scss",
+		"/D/Demandware/Loreal/myTrainRepo/cartridges/app_mark/cartridge/static/default/sass/partials/_grid.scss",
+		"/D/Demandware/Loreal/myTrainRepo/cartridges/app_lora_richUI/cartridge/static/default/js/app.cart.js",
+		"/D/Demandware/Loreal/myTrainRepo/cartridges/app_mark/cartridge/static/default/sass/partials/_media_queries.scss",
+		"/D/Demandware/Loreal/myTrainRepo/cartridges/app_lora_richUI/cartridge/static/default/js/app.quickview.js",
+		"/D/Demandware/Loreal/myTrainRepo/cartridges/app_lora_richUI/cartridge/static/default/js/app.dialog.js",
+		"/D/Demandware/Loreal/myTrainRepo/cartridges/app_mark/cartridge/static/default/js/app.search.js",
+		"/D/Demandware/Loreal/myTrainRepo/cartridges/app_lora_richUI/cartridge/static/default/js/app.recommendations.customconfig.js",
+		"/D/Demandware/Loreal/myTrainRepo/cartridges/app_lora_richUI/cartridge/static/default/js/app.checkout.js",
+		"/D/Demandware/Loreal/myTrainRepo/cartridges/app_mark/cartridge/static/default/js/app.mark_namespace.js",
+		"/D/Demandware/Loreal/myTrainRepo/cartridges/app_lora/cartridge/pipelines/Newsletter.xml",
+		"/D/Demandware/Loreal/myTrainRepo/cartridges/app_mark/cartridge/static/default/stylesheets/main.css",
+		"/D/Demandware/Loreal/myTrainRepo/cartridges/app_mark/cartridge/templates/default/footer/containers/footer_UI.isml",
+		"/D/Demandware/Loreal/myTrainRepo/cartridges/app_lora/cartridge/templates/default/content/home/pt_storefront.isml",
+		"/D/Demandware/Loreal/myTrainRepo/cartridges/app_lora/cartridge/templates/default/content/home/homepage.isml",
+		"/D/Demandware/Loreal/myTrainRepo/cartridges/app_lora/cartridge/templates/default/account/giftregistry/pt_giftregistry.isml",
+		"/D/Demandware/Loreal/myTrainRepo/cartridges/app_lora_richUI/cartridge/templates/default/footer/containers/footer_UI.isml",
+		"/D/Demandware/Loreal/myTrainRepo/cartridges/app_lora/cartridge/templates/default/footer/containers/footer.isml",
+		"/D/Demandware/Loreal/myTrainRepo/cartridges/app_mark/cartridge/static/default/app/config.rb",
+		"/D/GoogleDrive/OSF/MyProjects/Demandware/Loreal/LORA/training/4.1/index.html",
+		"/D/Demandware/Loreal/myTrainRepo/cartridges/app_lora_richUI/cartridge/static/default/js/app.search.js",
+		"/D/Demandware/Loreal/myTrainRepo/cartridges/app_lora_richUI/cartridge/static/default/js/components/components.config.specific.js",
+		"/D/Demandware/Loreal/myTrainRepo/cartridges/app_lora_richUI/cartridge/static/default/js/components/components.config.global.js",
+		"/D/Demandware/Loreal/myTrainRepo/cartridges/app_lora_richUI/cartridge/static/default/js/app.components.js",
+		"/D/Demandware/Loreal/myTrainRepo/cartridges/app_lora_richUI/cartridge/static/default/js/app.js",
+		"/D/Demandware/Loreal/myTrainRepo/cartridges/app_mark/cartridge/static/default/js/script.js",
+		"/C/Users/Marcius/Dropbox/MyProjects/Demandware/Loreal/LORA/training/4.1/index.html",
+		"/C/Users/Marcius/Dropbox/MyProjects/Demandware/Loreal/LORA/training/4.1/sass/partials/_placeholders.scss",
+		"/C/Users/Marcius/Dropbox/MyProjects/Demandware/Loreal/LORA/training/4.1/sass/partials/_settings.scss",
+		"/D/Demandware/Loreal/training/cartridges/app_mark_pyts/.project",
+		"/D/Demandware/Loreal/training/cartridges/app_mark_pyts/cartridge/templates/default/training/login.isml",
+		"/C/Users/Marcius/Dropbox/MyProjects/Demandware/Loreal/LORA/training/4.1/sass/partials/_login_page.scss",
+		"/C/Users/Marcius/Dropbox/MyProjects/Demandware/Loreal/LORA/training/4.1/sass/partials/_mixins.scss",
+		"/C/Users/Marcius/Dropbox/MyProjects/Demandware/Loreal/LORA/training/4.1/js/script.js",
+		"/C/Users/Marcius/Dropbox/MyProjects/Demandware/Loreal/LORA/training/4.1/js/jquery.js",
+		"/C/Users/Marcius/Dropbox/MyProjects/Demandware/Loreal/LORA/training/4.1/sass/partials/_grid.scss",
+		"/C/Users/Marcius/Dropbox/MyProjects/Demandware/Loreal/LORA/training/4.1/sass/main.scss",
+		"/C/Users/Marcius/Dropbox/MyProjects/Demandware/Loreal/LORA/training/4.1/stylesheets/main.css",
+		"/C/Users/Marcius/Dropbox/MyProjects/Demandware/Loreal/LORA/training/4.1/config.rb",
+		"/C/Users/Marcius/Dropbox/MyProjects/Demandware/Loreal/LORA/training/4.1/sass/_grids.scss",
+		"/C/Users/Marcius/Dropbox/MyProjects/Demandware/Loreal/LORA/training/4.1/sass/style.scss",
+		"/C/Users/Marcius/Dropbox/MyProjects/Demandware/Loreal/LORA/training/4.1/gulpfile.js",
+		"/C/wamp/bin/apache/apache2.4.9/conf/httpd.conf",
+		"/C/Users/Marcius/Dropbox/MyProjects/Demandware/Loreal/LORA/training/4.1/sass/print.scss",
+		"/C/Users/Marcius/Dropbox/MyProjects/Demandware/Loreal/LORA/training/4.1/stylesheets/print.css",
+		"/C/Users/Marcius/Dropbox/MyProjects/Demandware/Loreal/LORA/training/4.1/trainingLORA/config.rb",
+		"/C/Users/Marcius/Dropbox/MyProjects/English/Новый текстовый документ.txt",
+		"/C/Users/Marcius/Dropbox/MyProjects/Demandware/Loreal/LORA/training/4.1/css/sass/_main.scss",
+		"/D/Demandware/Loreal/4.1/index.html",
+		"/C/Users/Marcius/Desktop/OUTLOOK.bat",
+		"/C/Users/Marcius/Desktop/test/app.js"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\GoogleDrive\\OSF\\MyProjects\\Demandware\\kiehls\\repo\\cartridges\\app_kiehls",
+			"D:\\GoogleDrive\\OSF\\MyProjects\\Demandware\\kiehls\\repo",
+			"D:\\GoogleDrive\\OSF\\MyProjects\\Demandware\\kiehls\\lora",
+			"D:\\GoogleDrive\\OSF\\MyProjects\\Demandware\\kiehls\\repo\\cartridges\\app_kiehls",
+			"D:\\GoogleDrive\\OSF\\MyProjects\\Demandware\\kiehls\\repo\\cartridges\\int_tutorial",
+			"D:\\GoogleDrive\\OSF\\MyProjects\\Demandware\\kiehls\\repo\\cartridges\\app_kiehls",
+			"D:\\GoogleDrive\\OSF\\MyProjects\\Demandware\\kiehls\\lora",
+			"D:\\GoogleDrive\\OSF\\MyProjects\\Demandware\\kiehls\\repo",
+			"D:\\GoogleDrive\\OSF\\MyProjects\\Demandware\\kiehls\\lora",
+			"D:\\GoogleDrive\\OSF\\MyProjects\\Demandware\\kiehls\\repo\\cartridges\\app_kiehls",
+			"D:\\GoogleDrive\\OSF\\MyProjects\\Demandware\\kiehls\\lora",
+			"D:\\GoogleDrive\\OSF\\MyProjects\\Demandware\\kiehls\\repo",
+			"D:\\GoogleDrive\\OSF\\MyProjects\\Demandware\\kiehls\\lora",
+			"D:\\GoogleDrive\\OSF\\MyProjects\\Demandware\\kiehls\\repo",
+			"D:\\GoogleDrive\\OSF\\MyProjects\\Demandware\\kiehls\\lora",
+			"D:\\Demandware\\Loreal\\myTrainRepo\\cartridges\\app_mark\\cartridge\\static\\default\\js",
+			"D:\\Demandware\\Loreal\\myTrainRepo\\cartridges\\app_mark\\cartridge\\static\\default\\sass",
+			"D:\\Demandware\\Loreal\\myTrainRepo\\cartridges",
+			"D:\\Demandware\\Loreal\\myTrainRepo\\cartridges\\app_mark",
+			"D:\\Demandware\\Loreal\\myTrainRepo\\cartridges",
+			"D:\\Demandware\\Loreal\\myTrainRepo\\cartridges\\app_mark",
+			"D:\\Demandware\\Loreal\\myTrainRepo\\cartridges",
+			"D:\\Demandware\\Loreal\\training",
+			"D:\\Demandware\\upstream\\demandware",
+			"D:\\Demandware\\upstream\\demandware\\cartridges\\mmi_storefront2",
+			"D:\\Demandware\\upstream\\demandware\\cartridges\\mmi_storefront2\\cartridge\\static\\default\\sass",
+			"D:\\Demandware\\upstream\\demandware",
+			"D:\\Demandware\\upstream\\demandware\\cartridges\\mmi_storefront2\\cartridge\\static\\default\\sass",
+			"D:\\Demandware\\upstream\\demandware",
+			"D:\\Demandware\\upstream\\demandware\\cartridges\\mmi_storefront2\\cartridge\\static\\default\\sass",
+			"D:\\Demandware\\upstream\\demandware",
+			"D:\\Demandware\\upstream\\demandware\\cartridges\\mmi_storefront2\\cartridge\\static\\default\\sass",
+			"D:\\Demandware\\upstream\\demandware\\cartridges\\mmi_storefront2",
+			"D:\\Demandware\\upstream\\demandware",
+			"D:\\Demandware\\upstream\\demandware\\cartridges\\mmi_storefront2\\cartridge\\static\\default\\sass",
+			"D:\\Demandware\\upstream\\demandware",
+			"D:\\Demandware\\upstream\\demandware\\cartridges\\mmi_storefront2\\cartridge\\static\\default\\sass",
+			"D:\\Demandware\\upstream\\demandware",
+			"D:\\Demandware\\upstream\\demandware\\cartridges\\mmi_storefront2\\cartridge\\static\\default\\sass",
+			"D:\\Demandware\\upstream\\demandware",
+			"D:\\Demandware\\upstream\\demandware\\cartridges\\mmi_storefront2\\cartridge\\static\\default\\scripts\\app",
+			"D:\\Demandware\\upstream\\demandware\\cartridges\\mmi_storefront2\\cartridge\\static\\default\\sass",
+			"D:\\Demandware\\upstream\\demandware\\cartridges\\mmi_storefront2\\cartridge\\static\\default\\scripts",
+			"D:\\Demandware\\upstream\\demandware",
+			"D:\\Demandware\\upstream\\demandware\\cartridges\\mmi_storefront2\\cartridge\\static\\default\\sass",
+			"D:\\Demandware\\upstream\\demandware",
+			"D:\\Demandware\\upstream\\demandware\\cartridges\\mmi_storefront2\\cartridge\\static\\default\\sass",
+			"D:\\Demandware\\upstream\\demandware",
+			"D:\\Demandware\\upstream\\demandware\\cartridges\\mmi_storefront2\\cartridge\\static\\default\\sass",
+			"D:\\Demandware\\upstream\\demandware\\cartridges\\mmi_storefront2\\cartridge\\static\\default\\scripts",
+			"D:\\Demandware\\upstream\\demandware\\cartridges\\mmi_storefront2\\cartridge\\static\\default\\sass",
+			"D:\\Demandware\\upstream\\demandware",
+			"D:\\Demandware\\Fork\\demandware",
+			"D:\\Demandware\\Fork\\demandware\\cartridges\\mmi_storefront2\\cartridge\\static\\default\\sass",
+			"D:\\Demandware\\Fork\\demandware",
+			"D:\\Demandware\\Fork\\demandware\\cartridges\\mmi_storefront2\\cartridge\\static\\default\\sass",
+			"D:\\Demandware\\freshRepo\\demandware",
+			"D:\\Demandware\\freshRepo\\demandware\\cartridges\\mmi_storefront2\\cartridge\\static\\default\\sass",
+			"D:\\Demandware\\freshRepo\\demandware",
+			"D:\\Demandware\\freshRepo\\demandware\\cartridges\\mmi_storefront2",
+			"D:\\Demandware\\freshRepo\\demandware",
+			"D:\\Demandware\\freshRepo\\demandware\\cartridges\\mmi_storefront2\\cartridge\\static\\default\\sass",
+			"D:\\Demandware\\freshRepo\\demandware",
+			"D:\\Demandware\\repo\\demandware",
+			"D:\\Demandware\\repo\\demandware\\cartridges\\mmi_motomaker",
+			"D:\\Demandware\\repo\\demandware\\cartridges\\mmi_motomaker\\cartridge\\static\\default\\js\\motomaker\\app\\scripts\\views",
+			"D:\\Hackaton\\Repotest\\WildWest\\app",
+			"D:\\Projects\\Demandware\\Motorola\\repo\\demandware",
+			"D:\\Projects\\Demandware\\Motorola\\repo\\demandware\\cartridges\\mmi_motomaker\\cartridge\\static\\default\\js\\motomaker\\app",
+			"D:\\Projects\\Demandware\\Motorola\\repo\\demandware\\cartridges\\mmi_motomaker\\cartridge\\static\\default\\js\\motomaker\\app\\scripts\\views",
+			"D:\\Projects\\Demandware\\Motorola\\repo\\demandware\\cartridges\\mmi_motomaker\\cartridge\\static\\default\\js\\motomaker\\app",
+			"D:\\Projects\\Demandware\\Motorola\\repo\\demandware",
+			"<project>",
+			"Where:",
+			"",
+			"D:\\blogProject\\blog",
+			"",
+			"C:\\wamp\\www\\sigmachain_repo\\app\\views\\emails",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"customData",
+			"baseStart",
+			"beforeChange",
+			"_introBeforeChangeCallback",
+			"box",
+			"beforeChange",
+			"z-context-killer",
+			"currentPage",
+			"homepageSteps",
+			"desktopSteps",
+			"giftOptionsSteps",
+			"enhanced-z-index",
+			"domoverrides",
+			"position: relative",
+			"giftOptionsSteps",
+			"b-cg_landing_hero",
+			"pdpSteps",
+			"pdp-invisible-wrapper",
+			"plpSteps",
+			"plp-invisible-wrapper",
+			"initPLPDOMOverrides",
+			"plp-invisible-wrapper",
+			"<<<<<<< Updated upstream",
+			"introOptions",
+			"customData",
+			"baseStart",
+			"app.tutorialBase.tour",
+			"refreshOnResize",
+			"plpSidebarSelection",
+			"$cache.plpSidebarSelection",
+			"plpSteps",
+			"plp-invisible-wrapper",
+			"plpSteps",
+			"search",
+			"b-cg_landing_btn",
+			"9",
+			"7",
+			"#product_content",
+			"introjs-tooltipReferenceLayer",
+			"ustomer can buy individual produ",
+			"quizSteps",
+			"giftOptionsStep",
+			"giftOptionsSteps",
+			"'intro':",
+			"1",
+			"tooltipNumberPosAdjustments",
+			"giftOptionsSteps",
+			"giftLandingSteps",
+			"tutorialSteps.general.giftLandingSteps.giftLandingStep",
+			"giftLandingSteps",
+			"'steps': [\n                    {\n                        'element': '.b-cg_landing_hero a',\n                        'intro': \"The <b>Customize a Gift Tool</b> brings Kiehl's <b>unique personalized gifting experience online</b> for the first time! Customers can select <b>products</b>, choose their <b>gift wrapping</b> and can add a <b>personal message</b>, just like in store.\",\n                        'position': \"bottom\"\n                    },\n                    {\n                        'element': '.b-cg_landing_btn',\n                        'intro': \"<b><i>Let's begin with by clicking Make My Gift.</i></b>\",\n                        'position': \"bottom\",\n                        'extraHighlightedElements': '.b-cg_landing_btn'\n                    },\n\n                ]",
+			"'steps': [\n                        {\n                            'element': '.b-cg_landing_hero',\n                            'intro': \"The Customize a Gift Tool was introduced during key holiday seasons for a personalized and uniquely Kiehl's experience.  Users can select to package together products, select their gift wrapping and create a personal message for the gifts.<br/><br/><i><b>Let's begin with Step 1 by selecting Make My Gift.</b></i>\",\n                            'position': \"bottom\"\n                        }\n                    ]",
+			"<b><i>Let's begin with by clicking Make My Gift.</i></b>\"",
+			"The <b>Customize a Gift Tool</b> brings Kiehl's <b>unique personalized gifting experience online</b> for the first time! Customers can select <b>products</b>, choose their <b>gift wrapping</b> and can add a <b>personal message</b>, just like in store.\"",
+			"pdpSteps",
+			"'intro':",
+			"pdpSteps",
+			"The <b>products are displayed as a set</b> and the customer can buy individual products or <b>Add All to Bag in 1 Click</b>.",
+			"The resulting <b>Product Set</b> from Healthy Skin Routine Finder tool can be added by users into cart in entirety by clicking <b>ADD ALL TO BAG</b> or individually.",
+			"pdpSteps",
+			"<b>Product Description</b> defaulted to Kiehl's US copy as baseline.  Includes variant selector and inventory messaging.  All PDPs will be defaulted to first available variant to ensure ADD TO BAG button always enabled.",
+			"plpSteps",
+			"\"<b>Left side filter</b> allows user to narrow down the product grid to specific points of interest. Additionally the <b>two sticky promotional spots</b> beneath the Filter follow the user down the page, providing additional opportunity for customer education and SEO optimization<br/><br/><i><b>Let's explore the PDP (product detail page) by clicking on Kiehl's Customer Favorite, Midnight Recovery Serum.</b></i>\"",
+			"tutorialSteps.general.clpSteps.clpStep1",
+			"plpSteps",
+			"clpSteps",
+			"homepageSteps",
+			"Here are <b>her Results</b>! Users get a <b>product recommendation for each step</b> and can click <b>Shop My Routine</b> to buy now or <b>Email my Routine</b> for later.",
+			"<b>Healthy Skin Routine Finder</b> is a <b>proven conversion driver</b> on Kiehl's US. By responding to 4 simple questions, the customer receives recommendation for their <b>perfect skin routine</b>.<br /><br /><em><b>Let's see the results for a customer</b> who is a <b><u>female</u></b>, with <b><u>normal skin</u></b>, looking to <b><u>reduce lines</u></b> and wants <b><u>untinted</u></b> sun protection</em>.",
+			"Here are <b>her Results</b>! Users get a <b>product recommendation for each step</b> and can click <b>Shop My Routine</b> to buy now or <b>Email my Routine</b> for later.",
+			"<b>Healthy Skin Routine Finder</b> is a <b>proven conversion driver</b> on Kiehl's US. By responding to 4 simple questions, the customer receives recommendation for their <b>perfect skin routine</b>.<br /><br /><em><b>Let's see the results for a customer</b> who is a <b><u>female</u></b>, with <b><u>normal skin</u></b>, looking to <b><u>reduce lines</u></b> and wants <b><u>untinted</u></b> sun protection</em>.",
+			"With Products and Gift Wrap chosen, all that's left is to add a <b>personal message to your lucky recipient</b>.<br /><br /><b><i>Next click on MAKE MY GIFT  to see your creation</i></b>",
+			"In Step 2 the <b>customer chooses their gift wrap</b>. This can be defined based on <b>local boxes and filling</b>.",
+			"Here we've <b>pre-selected some Kiehl's products</b> for your gift. <b>Real Customers</b> may choose <b>any products from the list</b>",
+			"<b><i>Let's begin with by clicking Make My Gift.</i></b>",
+			"The <b>Customize a Gift Tool</b> brings Kiehl's <b>unique personalized gifting experience online</b> for the first time! Customers can select <b>products</b>, choose their <b>gift wrapping</b> and can add a <b>personal message</b>, just like in store.",
+			"The <b>products are displayed as a set</b> and the customer can buy individual products or <b>Add All to Bag in 1 Click</b>.",
+			"<b>Smart side filter</b> are <b>contextual</b> and help the user to narrow down their search to <b>specific points of interest</b>. Additionally the <b>two sticky promotional spots</b> provide additional opportunities for <b>customer education</b> and <b>SEO optimization</b>.<br /><br /><b><i>Now Let's check out a product page - how about Kiehl's Customer Favorite, Midnight Recovery Serum?</i></b>",
+			"\"<",
+			"<b>Content Banners for each category</b> are easy to merchandise & <b>can be customized</b> to display imagery and copy for maximum <b>SEO-friendliness</b>.<br /><br /> <b><i>Now click on the Serums in the left side subcategory navigation</i></b>",
+			"<b>Let's try navigating to a Category Landing Page by clicking on \\\"Continue Journey\\\"</b>",
+			"The <b>Global Footer</b> provides links to <b>Kiehl's social accounts</b>, another <b>newsletter</b> sign up opportunity and links to <b>brand information</b>.",
+			"The <b>Promo Banner</b> can be used to push periodic brand promotions. The <b>Homepage Carousel</b> displays the latest campaigns for coherent online/offline messaging.",
+			"The <b>Main Navigation</b> is <b>fully customizable</b> for each country based on their focus and <b>local strategy</b>.",
+			"The <b>Global Header</b> appears across the site and features <b>Promotional Messaging</b>, Customer Service, <b>Store Locator</b>, My Account, <b>On-Site Search</b>, and Shopping Cart.",
+			"The <b>Global Header</b> appears across t",
+			"<b>Increasing Data Capture</b> is a key goal for the Kiehl's Flagship. We achieve",
+			"<b>Healthy Skin Routine Finder</b> is a <b>proven conversion driver</b> on Kiehl's US. By responding to 4 simple questions, the customer receives recommendation for their <b>perfect skin routine</b>.<br /><br /><em><b>Let's see the results for a customer</b> who is a <b><u>female</u></b>, with <b><u>normal skin</u></b>, looking to <b><u>reduce lines</u></b> and wants <b><u>untinted</u></b> sun protection</em>.",
+			"With Products and Gift Wrap chosen, all that's left is to add a <b>personal message to your lucky recipient</b>.<br /><br /><b><i>Next click on MAKE MY GIFT  to see your creation</i></b>",
+			"Here we've <b>pre-selected some Kiehl's products</b> for your gift. <b>Real Customers</b> may choose <b>any products from the list</b>",
+			"<b><i>Let's begin with by clicking Make My Gift.</i></b>",
+			"The <b>Customize a Gift Tool</b> brings Kiehl's <b>unique personalized gifting experience online</b> for the first time! Customers can select <b>products</b>, choose their <b>gift wrapping</b> and can add a <b>personal message</b>, just like in store.",
+			"<b>Content Banners for each category</b> are easy to merchandise & <b>can be customized</b> to display imagery and copy for maximum <b>SEO-friendliness</b>.<br /><br /> <b><i>Now click on the Serums in the left side subcategory navigation</i></b>",
+			"The <b>Global Header</b> appears across the site and features <b>Promotional Messaging</b>, Customer Service, <b>Store Locator</b>, My Account, <b>On-Site Search</b>, and Shopping Cart.",
+			"The <b>Main Navigation</b> is <b>fully customizable</b> for each country based on their focus and <b>local strategy</b>.",
+			"The <b>Promo Banner</b> can be used to push periodic brand promotions. The <b>Homepage Carousel</b> displays the latest campaigns for coherent online/offline messaging.",
+			"The <b>Global Footer</b> provides links to <b>Kiehl's social accounts</b>, another <b>newsletter</b> sign up opportunity and links to <b>brand information</b>.",
+			"<b>Let's try navigating to a Category Landing Page by clicking on \\\"Continue Journey\\\"</b>",
+			"The <b>Global Header</b> appears across the site and features <b>Promotional Messaging</b>, Customer Service, <b>Store Locator</b>, My Account, <b>On-Site Search</b>, and Shopping Cart.",
+			"<b>Increasing Data Capture</b> is a key goal for the Kiehl's Flagship. We achieve this with <b>data capture pop ups</b>, configurable to display on specific pages with <b>personalized messaging</b>.",
+			"quizSteps: {",
+			"resize",
+			"destroy",
+			"shiftTop",
+			"tooltipNumberPosAdjustments",
+			"numberOptions",
+			"To help users find the right product for them, Kiehl's Flagship",
+			"if(steps[i].position) {\n                    $(steps[i].element).attr(\"data-tooltip-pos\", steps[i].position);\n                }",
+			"data-tooltip-pos",
+			"fixTheTooltipNumber",
+			"tooltipNumberPosAdjustments",
+			"*",
+			"header-invisible-wrapper",
+			"introOptions",
+			"fixTooltipOverlaps",
+			"header-wrapper-2-container",
+			"fixTooltipOverlaps",
+			"targetElement",
+			"data-tooltip-pos",
+			"style.css",
+			"domoverrides",
+			".ui-dialog #product_content",
+			".product_detail .product_content",
+			".quickview .product_content",
+			".product_detail  .product_content",
+			".ui-dialog #product_content",
+			".ui-dialog .product_content",
+			".ui-dialog #product_content"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "server/expressConfig.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 830,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								426,
+								426
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 203,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								74,
+								74
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "server/routes.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 209,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								128,
+								128
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "public/views/index.handlebars",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 126,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								110,
+								110
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<!DOCTYPE html>",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "package.json",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 719,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 414.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 88.0
+	},
+	"output.find_results":
+	{
+		"height": 262.0
+	},
+	"pinned_build_system": "",
+	"project": "socketChat.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"tutorial",
+				"int_tutorial\\cartridge\\templates\\default\\tutorialbody.isml"
+			],
+			[
+				"components.con",
+				"repo\\cartridges\\app_kiehls\\cartridge\\static\\default\\js\\components\\components.config.specific.js"
+			],
+			[
+				"html_",
+				"repo\\cartridges\\app_kiehls\\cartridge\\templates\\default\\components\\header\\htmlhead_UI.isml"
+			],
+			[
+				"footer_ui.isml",
+				"repo\\cartridges\\app_kiehls\\cartridge\\templates\\default\\footer\\containers\\footer_UI.isml"
+			],
+			[
+				"intro",
+				"repo\\cartridges\\app_kiehls\\cartridge\\static\\default\\js\\intro.js"
+			],
+			[
+				"global.tutorialbase.js",
+				"repo\\cartridges\\app_kiehls\\cartridge\\static\\default\\js\\components\\global.tutorialbase.js"
+			],
+			[
+				"userjourney.js",
+				"repo\\cartridges\\int_tutorial\\cartridge\\static\\default\\js\\kiehls\\tutorial-userjourney.js"
+			],
+			[
+				"pt_storefront_vars",
+				"lora\\app_lora\\cartridge\\templates\\default\\content\\home\\pt_storefront_VARS.isml"
+			],
+			[
+				"footer.isml",
+				"lora\\app_cc\\cartridge\\templates\\default\\callcenter\\components\\footer.isml"
+			],
+			[
+				"intro.js",
+				"repo\\cartridges\\app_kiehls\\cartridge\\static\\default\\js\\intro.js"
+			],
+			[
+				"globalintro",
+				"repo\\cartridges\\app_kiehls\\cartridge\\static\\default\\js\\components\\global.intro.js"
+			],
+			[
+				"pt_mark",
+				"cartridges\\app_mark\\cartridge\\templates\\default\\content\\content\\pt_mark.isml"
+			],
+			[
+				"pt_storefront",
+				"cartridges\\app_mark\\cartridge\\templates\\default\\content\\home\\pt_storefront.isml"
+			],
+			[
+				"app.js",
+				"cartridges\\app_mark\\cartridge\\static\\default\\js\\app.js"
+			],
+			[
+				"footer_ui",
+				"cartridges\\app_mark\\cartridge\\templates\\default\\footer\\containers\\footer_UI.isml"
+			],
+			[
+				"mobilenavigationmenu",
+				"cartridges\\mmi_cn\\cartridge\\templates\\default\\fragments\\site\\mobilenavigationmenu.isml"
+			],
+			[
+				"mobilenavigationmenu.isml",
+				"cartridges\\mmi_cn\\cartridge\\templates\\default\\fragments\\site\\mobilenavigationmenu.isml"
+			],
+			[
+				"header.isml",
+				"cartridges\\mmi_storefront2\\cartridge\\templates\\default\\fragments\\site\\header.isml"
+			],
+			[
+				"override.css",
+				"cartridges\\mmi_mx\\cartridge\\static\\default\\css\\override.css"
+			],
+			[
+				"override",
+				"cartridges\\mmi_fr\\cartridge\\static\\default\\css\\override.css"
+			],
+			[
+				"device.isml",
+				"cartridges\\mmi_storefront2\\cartridge\\templates\\default\\fragments\\cart\\device.isml"
+			],
+			[
+				"companions",
+				"cartridges\\mmi_storefront2\\cartridge\\templates\\default\\fragments\\cart\\companions.isml"
+			],
+			[
+				"payment.isml",
+				"cartridges\\mmi_fr\\cartridge\\templates\\default\\pages\\checkout\\payment.isml"
+			],
+			[
+				"default.isml",
+				"cartridges\\mmi_storefront2\\cartridge\\templates\\default\\decorators\\default.isml"
+			],
+			[
+				"checkoutmodules.isml",
+				"cartridges\\mmi_storefront2\\cartridge\\templates\\default\\fragments\\cart\\checkoutmodules.isml"
+			],
+			[
+				"checkout",
+				"cartridges\\mmi_storefront2\\cartridge\\templates\\resources\\checkout.properties"
+			],
+			[
+				"cart.isml",
+				"cartridges\\mmi_storefront2\\cartridge\\templates\\default\\pages\\checkout\\cart.isml"
+			],
+			[
+				"summary.isml",
+				"cartridges\\mmi_storefront2\\cartridge\\templates\\default\\fragments\\cart\\summary.isml"
+			],
+			[
+				"head.isml",
+				"cartridges\\mmi_storefront2\\cartridge\\templates\\default\\fragments\\site\\header.isml"
+			],
+			[
+				"config",
+				"cartridges\\mmi_storefront2\\cartridge\\static\\default\\scripts\\config.js"
+			],
+			[
+				"recommendationproduct",
+				"cartridges\\mmi_storefront2\\cartridge\\templates\\default\\fragments\\product\\recommendationproduct.isml"
+			],
+			[
+				"co_pg_payment",
+				"cartridges\\mmi_storefront2\\cartridge\\pipelines\\CO_PG_Payment.xml"
+			],
+			[
+				"overr",
+				"cartridges\\mmi_de\\cartridge\\static\\default\\css\\override.css"
+			],
+			[
+				"ove",
+				"cartridges\\mmi_fr\\cartridge\\static\\default\\css\\override.css"
+			],
+			[
+				"header",
+				"cartridges\\mmi_storefront2\\cartridge\\templates\\default\\fragments\\site\\header.isml"
+			],
+			[
+				"shopping",
+				"cartridges\\mmi_storefront2\\cartridge\\static\\default\\scripts\\app\\shopping-cart.js"
+			],
+			[
+				"crmoptin.isml",
+				"cartridges\\mmi_storefront2\\cartridge\\templates\\default\\fragments\\cart\\crmoptin.isml"
+			],
+			[
+				"confirmation.isml",
+				"cartridges\\mmi_storefront2\\cartridge\\templates\\default\\pages\\checkout\\confirmation.isml"
+			],
+			[
+				"header.js",
+				"cartridges\\mmi_storefront2\\cartridge\\static\\default\\scripts\\app\\header.js"
+			],
+			[
+				"app.css",
+				"cartridges\\mmi_storefront2\\cartridge\\static\\default\\css\\app.css"
+			],
+			[
+				"_base.scss",
+				"cartridges\\mmi_storefront2\\cartridge\\static\\default\\.sass-cache\\ee40c4b0f321c4223d0d4237ec80b3693a0ed7b5\\_base.scssc"
+			],
+			[
+				"960",
+				"cartridges\\mmi_storefront2\\cartridge\\static\\default\\sass\\960.scss"
+			],
+			[
+				"payment.is",
+				"cartridges\\mmi_fr\\cartridge\\templates\\default\\pages\\checkout\\payment.isml"
+			],
+			[
+				"g_re",
+				"cartridges\\mmi_storefront2\\cartridge\\static\\default\\scripts\\app\\g_recaptcha.js"
+			],
+			[
+				"summary",
+				"cartridges\\mmi_storefront2\\cartridge\\templates\\default\\fragments\\cart\\summary.isml"
+			],
+			[
+				"ads.xml",
+				"cartridges\\mmi_core2\\cartridge\\forms\\default\\ads.xml"
+			],
+			[
+				"recommendation-modal.isml",
+				"cartridges\\mmi_storefront2\\cartridge\\templates\\default\\fragments\\cart\\recommendation-modal.isml"
+			],
+			[
+				"cart",
+				"cartridges\\mmi_storefront2\\cartridge\\templates\\default\\pages\\checkout\\cart.isml"
+			],
+			[
+				"coupon.isml",
+				"cartridges\\mmi_storefront2\\cartridge\\templates\\default\\fragments\\cart\\coupon.isml"
+			],
+			[
+				"summa",
+				"cartridges\\mmi_storefront2\\cartridge\\templates\\default\\pages\\checkout\\summary.isml"
+			],
+			[
+				"config.js",
+				"cartridges\\mmi_storefront2\\cartridge\\static\\default\\scripts\\config.js"
+			],
+			[
+				"recommendationproduct.isml",
+				"cartridges\\mmi_storefront2\\cartridge\\templates\\default\\fragments\\product\\recommendationproduct.isml"
+			],
+			[
+				"ui.js",
+				"cartridges\\mmi_storefront2\\cartridge\\static\\default\\scripts\\app\\ui.js"
+			],
+			[
+				"addtocartbuttons.isml",
+				"cartridges\\mmi_storefront2\\cartridge\\templates\\default\\fragments\\product\\modules\\addtocartbuttons.isml"
+			],
+			[
+				"ajaxcontenttemplateiterator.isml",
+				"cartridges\\mmi_storefront2\\cartridge\\templates\\default\\fragments\\content\\ajaxcontenttemplateiterator.isml"
+			],
+			[
+				"smallproduct.isml",
+				"cartridges\\mmi_storefront2\\cartridge\\templates\\default\\fragments\\product\\smallproduct.isml"
+			],
+			[
+				"general.scss",
+				"cartridges\\mmi_storefront2\\cartridge\\static\\default\\sass\\general.scss"
+			],
+			[
+				"shippingform",
+				"cartridges\\mmi_mx\\cartridge\\templates\\default\\pages\\checkout\\shippingForm.isml"
+			],
+			[
+				"checkoutstep.isml",
+				"cartridges\\mmi_storefront2\\cartridge\\templates\\default\\fragments\\cart\\checkoutstep.isml"
+			],
+			[
+				"int_ads_finance",
+				"cartridges\\int_ads_finance\\cartridge\\int_ads_finance.properties"
+			],
+			[
+				"order_con",
+				"cartridges\\mmi_core\\cartridge\\templates\\default\\mail\\order_confirmation.isml"
+			],
+			[
+				"payment.",
+				"cartridges\\mmi_storefront2\\cartridge\\static\\default\\scripts\\app\\payment.js"
+			],
+			[
+				"res",
+				"cartridges\\mmi_motomaker\\cartridge\\templates\\default\\motomaker\\resourcemessages.isml"
+			],
+			[
+				"order_co",
+				"cartridges\\mmi_core\\cartridge\\templates\\default\\mail\\order_confirmation.isml"
+			],
+			[
+				"shopp",
+				"cartridges\\mmi_storefront2\\cartridge\\static\\default\\scripts\\app\\shopping-cart.js"
+			],
+			[
+				"order_confirma",
+				"cartridges\\mmi_core\\cartridge\\templates\\default\\mail\\order_confirmation.isml"
+			],
+			[
+				"productlineitemvo.ds",
+				"cartridges\\mmi_storefront2\\cartridge\\scripts\\vo\\product\\productLineItemVO.ds"
+			],
+			[
+				"devices",
+				"cartridges\\mmi_storefront2\\cartridge\\templates\\default\\fragments\\cart\\devices.isml"
+			],
+			[
+				"device",
+				"cartridges\\mmi_storefront2\\cartridge\\templates\\default\\fragments\\cart\\device.isml"
+			],
+			[
+				"devices.isml",
+				"cartridges\\mmi_storefront2\\cartridge\\templates\\default\\fragments\\cart\\devices.isml"
+			],
+			[
+				"infocontentasset.isml",
+				"cartridges\\mmi_storefront2\\cartridge\\templates\\default\\fragments\\checkout\\infocontentasset.isml"
+			],
+			[
+				"orderh",
+				"cartridges\\mmi_storefront2\\cartridge\\templates\\default\\fragments\\account\\orderHistory.isml"
+			],
+			[
+				"util.js",
+				"cartridges\\mmi_motomaker\\cartridge\\static\\default\\js\\motomaker\\app\\scripts\\lib\\util.js"
+			],
+			[
+				"appc",
+				"cartridges\\mmi_motomaker\\cartridge\\static\\default\\js\\motomaker\\app\\scripts\\controllers\\appController.js"
+			],
+			[
+				"confirmationtop",
+				"cartridges\\mmi_storefront2\\cartridge\\templates\\default\\fragments\\cart\\confirmationtop.isml"
+			],
+			[
+				"confirmatiom.isml",
+				"cartridges\\mmi_storefront2\\cartridge\\templates\\default\\fragments\\cart\\recommendation-modal.isml"
+			],
+			[
+				"confirmation",
+				"cartridges\\mmi_core\\cartridge\\templates\\default\\checkout\\confirmation\\confirmation.isml"
+			],
+			[
+				"app.scss",
+				"cartridges\\mmi_storefront2\\cartridge\\static\\default\\sass\\app.scss"
+			],
+			[
+				"components.scss",
+				"cartridges\\mmi_storefront2\\cartridge\\static\\default\\sass\\components.scss"
+			],
+			[
+				"waypoints.min",
+				"cartridges\\mmi_storefront2\\cartridge\\static\\default\\scripts\\components\\jquery-waypoints\\waypoints.min.js"
+			],
+			[
+				"comparewidgetv",
+				"cartridges\\mmi_motomaker\\cartridge\\static\\default\\js\\motomaker\\app\\scripts\\views\\compareWidgetView.js"
+			],
+			[
+				"util",
+				"cartridges\\mmi_core\\cartridge\\static\\default\\js\\util.js"
+			],
+			[
+				"resourcemessa",
+				"cartridges\\mmi_motomaker\\cartridge\\templates\\default\\motomaker\\resourcemessages.isml"
+			],
+			[
+				"th",
+				"cartridges\\mmi_storefront2\\cartridge\\static\\default\\scripts\\app\\threeSixty.js"
+			],
+			[
+				"reel",
+				"cartridges\\mmi_storefront2\\cartridge\\static\\default\\scripts\\app\\jquery.reel.js"
+			],
+			[
+				"three",
+				"cartridges\\mmi_storefront2\\cartridge\\static\\default\\scripts\\app\\threeSixty.js"
+			],
+			[
+				"socialsha",
+				"cartridges\\mmi_storefront2\\cartridge\\templates\\resources\\socialshare.properties"
+			],
+			[
+				"facebook",
+				"cartridges\\int_facebook\\cartridge\\templates\\default\\facebook.isml"
+			],
+			[
+				"thr",
+				"cartridges\\mmi_storefront2\\cartridge\\static\\default\\scripts\\app\\threeSixty.js"
+			],
+			[
+				".test.js",
+				"cartridges\\mmi_motomaker\\cartridge\\static\\default\\js\\motomaker\\node_modules\\grunt-mocha\\node_modules\\grunt-lib-phantomjs\\node_modules\\temporary\\test\\dir.test.js"
+			],
+			[
+				"facebookvo.ds",
+				"cartridges\\mmi_storefront2\\cartridge\\scripts\\vo\\social\\facebookVO.ds"
+			],
+			[
+				"sites/site_template/meta/system-objecttype-extensions.xml",
+				"sites\\site_template\\meta\\system-objecttype-extensions.xml"
+			],
+			[
+				"system-objecttype-extensions.xml",
+				"import_export\\mm-2.0\\meta\\system-objecttype-extensions.xml"
+			],
+			[
+				"defaultresourcemessages.xm",
+				"manual_import_export\\defaultresources\\meta\\defaultResourceMessages.xml"
+			],
+			[
+				"appcontroller",
+				"cartridges\\mmi_motomaker\\cartridge\\static\\default\\js\\motomaker\\app\\scripts\\controllers\\appController.js"
+			],
+			[
+				"trethixty",
+				"cartridges\\mmi_storefront2\\cartridge\\static\\default\\scripts\\app\\threeSixty.js"
+			],
+			[
+				"getthreesixtycontentherovo",
+				"cartridges\\mmi_storefront2\\cartridge\\scripts\\commands\\content\\getThreeSixtyContentHeroVO.ds"
+			],
+			[
+				"thre",
+				"cartridges\\mmi_storefront2\\cartridge\\static\\default\\scripts\\app\\threeSixty.js"
+			],
+			[
+				"jquery.reel.js",
+				"cartridges\\mmi_storefront2\\cartridge\\static\\default\\scripts\\app\\jquery.reel.js"
+			],
+			[
+				"htmlhead.isml",
+				"cartridges\\mmi_core\\cartridge\\templates\\default\\components\\header\\htmlhead.isml"
+			],
+			[
+				"head",
+				"cartridges\\mmi_core\\cartridge\\templates\\default\\components\\header\\header.isml"
+			],
+			[
+				"threesixtyimageright.isml",
+				"cartridges\\mmi_storefront2\\cartridge\\templates\\default\\fragments\\content\\threesixtyimageright.isml"
+			],
+			[
+				"http",
+				"cartridges\\mmi_motomaker\\cartridge\\templates\\default\\pages\\httpredirecthack.isml"
+			],
+			[
+				"jquery",
+				"cartridges\\mmi_storefront2\\cartridge\\static\\default\\scripts\\components\\jquery\\jquery.js"
+			],
+			[
+				"global.js",
+				"cartridges\\mmi_storefront2\\cartridge\\static\\default\\scripts\\app\\global.js"
+			],
+			[
+				"threesixty.js",
+				"cartridges\\mmi_storefront2\\cartridge\\static\\default\\scripts\\app\\threeSixty.js"
+			],
+			[
+				"socialw",
+				"cartridges\\mmi_motomaker\\cartridge\\static\\default\\js\\motomaker\\app\\scripts\\views\\socialWidgetView.js"
+			],
+			[
+				"productmodel",
+				"cartridges\\mmi_motomaker\\cartridge\\static\\default\\js\\motomaker\\app\\scripts\\core\\productModel.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\GoogleDrive\\Lessons\\Practice\\ShapingUpWithAngular\\pr.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 348.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 773.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 287.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
