@@ -1,1 +1,1 @@
-angular.module("liveChat", ["chatDirectives", "ngRoute"]);
+angular.module("liveChat", ["ngRoute"]);

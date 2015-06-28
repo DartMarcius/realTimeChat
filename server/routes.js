@@ -5,6 +5,6 @@ var app = express();
 require('./expressConfig')(app, express);
 
 app.all('/', function(req, res){
-	res.render('index');
+	res.render('chat');
 });
 module.exports = app;
