@@ -1,7 +1,7 @@
-var app = require("./server/routes.js"),
-	port = process.env.PORT || 8000;
+var app = require("./server/routes.js");
 
+app.set('port', process.env.PORT || 8000);
 // Start the server
-var server = app.listen(port, function() {
- console.log('Listening on port %d', server.address().port);
+app.listen(app.get('port'), function() {
+  console.log("Node app is running at localhost:" + app.get('port'))
 });
