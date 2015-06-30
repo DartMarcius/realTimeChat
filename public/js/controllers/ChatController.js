@@ -1,7 +1,12 @@
 angular.module("liveChat").controller("ChatController", function($scope, $location, $http) {
 	$scope.userName = "guest";
 	$scope.message = "";
-	$scope.messages = [];
+	$scope.messages = [],
+	socketHost = $location.host() === "localhost" ? "http://localhost:8000" : "https://damp-island-6320.herokuapp.com",
+	socket = io.connect(socketHost);
+	socket.on("message", function(data) {
+		$scope.getMessages();
+	});
 	$scope.getUserName = function() {
 		$scope.userName = prompt("What is your name?");
 	}
@@ -13,6 +18,7 @@ angular.module("liveChat").controller("ChatController", function($scope, $locati
 		.success(function(data, status, headers, config) {
 			$scope.messages = angular.fromJson(data);
 			$("textarea").val("");
+			socket.emit("message");
 		  // this callback will be called asynchronously
 		  // when the response is available
 		}).

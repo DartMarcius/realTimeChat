@@ -10,6 +10,15 @@ var MongoClient = require('mongodb').MongoClient;
 var assert = require('assert');
 var hostName = null;
 var url = null;
+
+io.on("connection", function(client) {
+    console.log("Client connected...");
+    client.on("message", function() {
+        client.broadcast.emit("message");
+    })
+    
+});
+
 var removeDocument = function(db, selector, callback) {
   // Get the documents collection 
   var collection = db.collection('messages');
