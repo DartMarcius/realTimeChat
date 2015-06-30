@@ -7,6 +7,14 @@ angular.module("liveChat").controller("ChatController", function($scope, $locati
 	socket.on("message", function(data) {
 		$scope.getMessages();
 	});
+	$scope.shiftDown = false;
+	$(window).on("keydown", function(ev) {
+		if(ev.which == 13) {
+			if(!ev.shiftKey) {
+				$scope.sendMessage();
+			}
+		}
+	});
 	function scrollToTextarea() {
 		setTimeout(function() {
 			window.scrollTo(0, $("textarea").offset().top);
