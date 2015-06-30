@@ -8,8 +8,8 @@ module.exports = function(app, express) {
 
   // Set the view directory, this enables us to use the .render method inside routes
   app.set('views', __dirname + "/../public/views");
-  app.engine('handlebars', exphbs({defaultLayout: __dirname + "/../public/views/layouts/main"}));
-  app.set('view engine', 'handlebars');
+  /*app.engine('handlebars', exphbs({defaultLayout: __dirname + "/../public/views/layouts/main"}));
+  app.set('view engine', 'handlebars');*/
   // parse application/x-www-form-urlencoded
   //app.use(bodyParser.urlencoded({ extended: false }));
 

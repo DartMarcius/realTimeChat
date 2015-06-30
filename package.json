@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/DartMarcius/realTimeChat",
   "dependencies": {
+    "body-parser": "^1.13.1",
     "express": "^4.13.0",
     "express-handlebars": "^2.0.1",
     "mongodb": "^2.0.35",
