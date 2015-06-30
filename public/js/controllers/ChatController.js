@@ -7,12 +7,21 @@ angular.module("liveChat").controller("ChatController", function($scope, $locati
 	socket.on("message", function(data) {
 		$scope.getMessages();
 	});
-	$scope.shiftDown = false;
+	var enterPressedN = 0;
 	$(window).on("keydown", function(ev) {
 		if(ev.which == 13) {
 			if(!ev.shiftKey) {
-				$scope.sendMessage();
+				if(enterPressedN < 1) {
+					$scope.sendMessage();
+					enterPressedN = 1;
+				}
+				
 			}
+		}
+	});
+	$(window).on("keyup", function(ev) {
+		if(ev.which == 13) {
+			enterPressedN = 0;
 		}
 	});
 	function scrollToTextarea() {
