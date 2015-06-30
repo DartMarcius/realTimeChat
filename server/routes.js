@@ -6,8 +6,8 @@ require('./expressConfig')(app, express);
 app.use(bodyParser.json());
 var MongoClient = require('mongodb').MongoClient;
 var assert = require('assert');
-
-var url = 'mongodb://localhost:27017/chat';
+var hostName = null;
+var url = null;
 var removeDocument = function(db, selector, callback) {
   // Get the documents collection 
   var collection = db.collection('messages');
@@ -70,6 +70,7 @@ var insertMessage = function(username, message, callback) {
     });
 };
 var getMessages = function(callback) {
+    console.log("host:",hostName);
     MongoClient.connect(url, function(err, db) {
         var messagesCollection = db.collection('messages');
         assert.equal(null, err);
@@ -85,6 +86,8 @@ var getMessages = function(callback) {
 
 console.log(app.settings.views)
 app.get('/', function(req, res){
+    hostName = req.headers.host;
+    url = hostName == "localhost:8000" ? "mongodb://localhost:27017/chat" : "mongodb://Marcius:tifind96@ds047612.mongolab.com:47612/heroku_stmsh2q0"
     res.sendFile('index.html', {root: app.settings.views});
 });
 app.post("/chat", function(req, res) {console.log(req.body)
