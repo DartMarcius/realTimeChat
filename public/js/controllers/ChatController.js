@@ -7,6 +7,11 @@ angular.module("liveChat").controller("ChatController", function($scope, $locati
 	socket.on("message", function(data) {
 		$scope.getMessages();
 	});
+	function scrollToTextarea() {
+		setTimeout(function() {
+			window.scrollTo(0, $("textarea").offset().top);
+		}, 1000);
+	}
 	$scope.getUserName = function() {
 		$scope.userName = prompt("What is your name?");
 	}
@@ -19,6 +24,7 @@ angular.module("liveChat").controller("ChatController", function($scope, $locati
 			$scope.messages = angular.fromJson(data);
 			$("textarea").val("");
 			socket.emit("message");
+			scrollToTextarea();
 		  // this callback will be called asynchronously
 		  // when the response is available
 		}).
@@ -31,6 +37,7 @@ angular.module("liveChat").controller("ChatController", function($scope, $locati
 		$http.get("/chat")
 		.success(function(data, status, headers, config) {
 			$scope.messages = angular.fromJson(data);
+			scrollToTextarea();
 			console.log($scope.messages);
 		  // this callback will be called asynchronously
 		  // when the response is available
