@@ -1,5 +1,7 @@
 var express = require('express');
 var app = express();
+var server = require('http').createServer(app);
+var io = require('socket.io')(server);
 var bodyParser = require('body-parser');
 // Load Express Configuration
 require('./expressConfig')(app, express);
@@ -100,4 +102,5 @@ app.get("/chat", function(req, res) {
         res.json(JSON.stringify(messages));
     });
 });
-module.exports = app;
+module.exports.app = app;
+module.exports.server = server;
